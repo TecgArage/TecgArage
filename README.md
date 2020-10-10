@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
 
 <!--
 🔭 I’m currently working on ...
