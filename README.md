@@ -1,7 +1,7 @@
-<div class="bg-gray">
+
 <h1 align="center" >Hi 👋, I'm tecgArage</h1>
 <h3 align="center" >Trouble with reading my name ? It's just camel case</h3>
-</div>
+
 - 💬 Ask me about **anything**
 
 
@@ -11,3 +11,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecgarage&show_icons=true" alt="tecgarage" /></p>
 
+<div class="bg-gray">
+  .text-gray-dark on .bg-gray
+</div>
