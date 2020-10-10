@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm tecgArage</h1>
-<h3 align="center">Trouble with reading my name ? It's just camel case</h3>
+<h1 align="center" style="background-color:#f03c15; font-family:'Courier New'">Hi 👋, I'm tecgArage</h1>
+<h3 align="center" style="background-color:#f03c15;">Trouble with reading my name ? It's just camel case</h3>
 
 - 💬 Ask me about **anything**
 
