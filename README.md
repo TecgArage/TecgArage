@@ -4,10 +4,6 @@
 
 - 💬 Ask me about **anything**
 
-
-<h3 align="left">Connect with me:</h3>
-<h3 align="left">Languages and Tools:</h3>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecgarage&show_icons=true" alt="tecgarage" /></p>
 
 <p align="center">
